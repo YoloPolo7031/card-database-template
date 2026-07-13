@@ -1,2 +1,52 @@
 name,set,quantity,type,color,altArt,overnumbered,image
 Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
+Pouty Poro,OGN,1,UNIT,FURY,false,false,pouty-poro-ogn.avif
+Blazing Scorcher,OGN,2,UNIT,FURY,false,false,blazing-scorcher-ogn.avif
+Raging Soul,OGN,2,UNIT,FURY,false,false,raging-soul-ogn.avif
+Dangerous Duo,OGN,1,UNIT,FURY,false,false,dangerous-duo-ogn.avif
+Shakedown,OGN,1,SPELL,FURY,false,false,shakedown-ogn.avif
+Sun Disc,OGN,1,GEAR,FURY,false,false,sun-disc-ogn.avif
+Stalwart Poro,OGN,1,UNIT,CALM,false,false,stalwart-poro-ogn.avif
+Clockwork Keeper,OGN,1,UNIT,CALM,false,false,clockwork-keeper-ogn.avif
+Taric Protector,OGN,1,UNIT,CALM,false,false,taric-protector-ogn.avif
+Wielder of Water,OGN,1,UNIT,CALM,false,false,wielder-of-water-ogn.avif
+Stand United,OGN,1,SPELL,CALM,false,false,stand-united-ogn.avif
+Meditation,OGN,1,SPELL,CALM,false,false,meditation-ogn.avif
+Find Your Center,OGN,1,SPELL,CALM,false,false,find-your-center-ogn.avif
+En Garde,OGN,1,SPELL,CALM,false,false,en-garde-ogn.avif
+Reinforce,OGN,2,SPELL,CALM,false,false,reinforce-ogn.avif
+Ravenbloom Student,OGN,1,UNIT,MIND,false,false,ravenbloom-student-ogn.avif
+Mega-Mech,OGN,1,UNIT,MIND,false,false,mega-mech-ogn.avif
+Pit Crew,OGN,1,UNIT,MIND,false,false,pit-crew-ogn.avif
+Ava Achiever,OGN,1,UNIT,MIND,false,false,ava-achiever-ogn.avif
+Falling Comet,OGN,1,SPELL,MIND,false,false,falling-comet-ogn.avif
+Stupefy,OGN,1,SPELL,MIND,false,false,stupefy-ogn.avif
+Consult the Past,OGN,1,SPELL,MIND,false,false,consult-the-past-ogn.avif
+Facebreaker,OGN,1,SPELL,ORDER,false,false,facebreaker-ogn.avif
+Back to Back,OGN,1,SPELL,ORDER,false,false,back-to-back-ogn.avif
+Symbol of the Solari,OGN,2,SPELL,ORDER,false,false,symbol-of-the-solari-ogn.avif
+Daring Poro,OGN,1,UNIT,ORDER,false,false,daring-poro-ogn.avif
+Petty Officer,OGN,1,UNIT,ORDER,false,false,petty-officer-ogn.avif
+Vanguard Captain,OGN,1,UNIT,ORDER,false,false,vanguard-captain-ogn.avif
+Soaring Scout,OGN,1,UNIT,ORDER,false,false,soaring-scout-ogn.avif
+Faithful Manufactor,OGN,1,UNIT,ORDER,false,false,faithful-manufactor-ogn.avif
+Spectral Matron,OGN,1,UNIT,ORDER,false,false,spectral-matron-ogn.avif
+Albus Ferros,OGN,1,UNIT,ORDER,false,false,albus-ferros-ogn.avif
+Cruel Patron,OGN,1,UNIT,ORDER,false,false,cruel-patron-ogn.avif
+Sett Kingpin,OGN,1,UNIT,ORDER,false,false,sett-kingpin-ogn.avif
+Cemetery Attendant,OGN,1,UNIT,CHAOS,false,false,cemetery-attendant-ogn.avif
+Sai Scout,OGN,1,UNIT,CHAOS,false,false,sai-scout-ogn.avif
+Mytis Poro,OGN,1,UNIT,CHAOS,false,false,mytis-poro-ogn.avif
+Teemo Scout,OGN,1,UNIT,CHAOS,false,false,teemo-scout-ogn.avif
+Sneaky Deckhand,OGN,1,UNIT,CHAOS,false,false,sneaky-deckhand-ogn.avif
+Traveling Merchant,OGN,1,UNIT,CHAOS,false,false,traveling-merchant-ogn.avif
+Fight or Flight,OGN,2,SPELL,CHAOS,false,false,fight-or-flight-ogn.avif
+Treasure Trove,OGN,1,GEAR,CHAOS,false,false,treasure-trove-ogn.avif
+Anivia Primal,OGN,1,UNIT,BODY,false,false,anivia-primal-ogn.avif
+Dune Drake,OGN,1,UNIT,BODY,false,false,dune-drake-ogn.avif
+Crackshot Corsair,OGN,1,UNIT,BODY,false,false,crackshot-corsair-ogn.avif
+Pakaa Cub,OGN,1,UNIT,BODY,false,false,pakaa-cub-ogn.avif
+Pit Rookie,OGN,1,UNIT,BODY,false,false,pit-rookie-ogn.avif
+Spoils of War,OGN,1,SPELL,BODY,false,false,spoils-of-war-ogn.avif
+Flurry of Blades,OGN,1,SPELL,BODY,false,false,flurry-of-blades-ogn.avif
+Confront,OGN,1,SPELL,BODY,false,false,confront-ogn.avif
